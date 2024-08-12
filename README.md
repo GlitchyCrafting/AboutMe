@@ -28,3 +28,11 @@ __If you don't know how to unzip a file, <br>get someone who knows how to use a 
 [Linus Torvalds][1]
 
 [1]: https://github.com/Torvalds
+
+<kbd>
+<img src="https://github.com/GlitchyCrafting/AboutMe/blob/main/img/Truck.jpg" height="170px">
+</kbd>
+
+| Terms | Definitions | My Definition |
+| :---- | :---------: | ------------: |
+| | | |
